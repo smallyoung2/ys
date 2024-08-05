@@ -1,0 +1,9 @@
+EEE
+DDD
+CCC
+BBB
+AAA
+0
+80
+85
+100
